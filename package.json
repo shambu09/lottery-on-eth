@@ -10,8 +10,8 @@
 		"type": "git",
 		"url": "git+https://github.com/shambu09/lottery-on-eth.git"
 	},
-	"author": "",
-	"license": "ISC",
+	"author": "Shambu Valasang",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/shambu09/lottery-on-eth/issues"
 	},
